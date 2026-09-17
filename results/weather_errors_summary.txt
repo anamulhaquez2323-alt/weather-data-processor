@@ -1,0 +1,33 @@
+WEATHER SUMMARY
+===============
+Data file: data\weather_errors.csv
+Days processed: 4
+Rows skipped: 12
+
+Average temperature: 11.6 C
+Hottest day: 2026-04-13 (18.4 C)
+Coldest day: 2026-04-01 (6.1 C)
+
+Total rainfall: 11.8 mm
+Wet days: 3
+Wettest day: 2026-04-13 (6.2 mm)
+
+Average wind speed: 31.9 km/h
+Windiest day: 2026-04-13 (47.3 km/h)
+Calm days: 1
+Breezy days: 2
+Windy days: 1
+
+Skipped rows:
+  line 4: date 03/04/2026 is not a real YYYY-MM-DD date
+  line 5: max_temp is missing
+  line 6: min_temp 'high' is not a number
+  line 7: min_temp is higher than max_temp
+  line 8: rainfall_mm is negative
+  line 9: date 2026-04-02 is repeated
+  line 10: wind_kmh is missing
+  line 12: too many values
+  line 13: date 2026-02-30 is not a real YYYY-MM-DD date
+  line 14: temperature is outside -50 to 60
+  line 16: wind_kmh is negative
+  line 18: min_temp is higher than max_temp; rainfall_mm is negative

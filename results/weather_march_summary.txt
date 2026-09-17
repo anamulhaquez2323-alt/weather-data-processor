@@ -1,0 +1,19 @@
+WEATHER SUMMARY
+===============
+Data file: data\weather_march.csv
+Days processed: 31
+Rows skipped: 0
+
+Average temperature: 10.5 C
+Hottest day: 2026-03-27 (20.0 C)
+Coldest day: 2026-03-06 (3.3 C)
+
+Total rainfall: 88.1 mm
+Wet days: 15
+Wettest day: 2026-03-22 (13.4 mm)
+
+Average wind speed: 25.0 km/h
+Windiest day: 2026-03-05 (50.9 km/h)
+Calm days: 11
+Breezy days: 15
+Windy days: 5
